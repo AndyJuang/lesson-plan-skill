@@ -44,7 +44,7 @@
 
 ```bash
 cd ~/.claude/skills/
-git clone https://github.com/AndyJuang/教案生成-skill.git 教案生成
+git clone https://github.com/AndyJuang/lesson-plan-skill.git 教案生成
 ```
 
 ### 方法二：下載 zip 解壓
