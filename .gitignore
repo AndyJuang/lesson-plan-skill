@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# 實際教案輸出不進版控
+教案輸出/
+
+# 編輯器暫存
+*.swp
+*~
+.vscode/
+.idea/
