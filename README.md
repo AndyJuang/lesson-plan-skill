@@ -40,7 +40,7 @@
 
 ## 🚀 安裝
 
-### 方法一：直接 clone 到 Claude Code skills 目錄
+### 方法一：Claude Code Skill（終端機使用者）
 
 ```bash
 cd ~/.claude/skills/
@@ -51,6 +51,14 @@ git clone https://github.com/AndyJuang/lesson-plan-skill.git 教案生成
 
 1. 在 GitHub 頁面點 `Code` → `Download ZIP`。
 2. 解壓後把整個資料夾改名為 `教案生成`，放到 `~/.claude/skills/` 下。
+
+### 方法三：Claude Project 版（零終端機、適合多人共用）
+
+若你的團隊只會用瀏覽器、不想裝 CLI，改走 Claude Project 路線：
+
+1. 進入 [`claude-project/`](claude-project/) 資料夾。
+2. 依 [claude-project/README.md](claude-project/README.md) 的 5 分鐘流程設定。
+3. 邀請同學年老師加入你的 Project，所有人共用同一套 Skill 邏輯。
 
 ### 驗證安裝
 
